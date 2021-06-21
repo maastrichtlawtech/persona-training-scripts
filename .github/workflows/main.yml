@@ -1,0 +1,19 @@
+name: Scrape  # The name of your Workflow
+
+on:
+  schedule:  # Tells Github to run this Workflow every night
+    - cron: "23 8 * * *"
+
+jobs:
+  scrape-latest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2.0.0
+        with:
+          python-version: '3.7'
+      # Tells Github to run the file `scraper.py` from your repository
+      - name: Run Scraper
+        run: python script_BolCom.py scrape

@@ -6,7 +6,7 @@ on: [push, pull_request]
 
 jobs:
   scrape-latest:
-    runs-on: windows-latest
+    runs-on: macos-latest
     strategy:
       matrix:
         python-version: [ 3.8 ]

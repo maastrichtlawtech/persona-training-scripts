@@ -211,7 +211,7 @@ if __name__ == '__main__':
     params.exp_name = 'test27'
     params.items_list = ['sneakers', 'parfum', 'sandalen', 'horloge', 'rugzak', 'zonnebril', 'kostuum', 'trainingspak', 'badpak', 'jurk', 'overhemd', 'mantel', 'laarzen', 'koptelefoon', 'yogamat', 'sjaal', 'badjas', 'halsketting', 'portemonnee']
     params.web_page = 'https://www.bol.com/'
-    params.exec_path = 'Personalization/geckodriver'
+    params.exec_path = 'Personalization/geckodriver.exe'
     # run the script
     main(params)
 

@@ -12,11 +12,11 @@ jobs:
         python-version: [ 3.8 ]
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v2
-      with:
-        python-version: ${{ matrix.python-version }}
+      - uses: actions/checkout@v2
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
       # Tells Github to run the file `scraper.py` from your repository
       - name: Run Scraper
         run: python script_BolCom.py scrape

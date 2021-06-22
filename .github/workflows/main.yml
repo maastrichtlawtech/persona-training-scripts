@@ -19,4 +19,4 @@ jobs:
           python-version: ${{ matrix.python-version }}
       # Tells Github to run the file `scraper.py` from your repository
       - name: Run Scraper
-        run: python script_BolCom.py scrape
+        run: python Personalization/script_BolCom.py scrape

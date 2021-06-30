@@ -6,7 +6,10 @@ on: [push, pull_request]
 
 jobs:
   scrape-latest:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
+    services:
+      selenium:
+        image: selenium/standalone-firefox
     strategy:
       matrix:
         python-version: [ 3.8 ]

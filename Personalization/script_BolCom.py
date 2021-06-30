@@ -148,7 +148,7 @@ def main(params):
             "proxyType": "MANUAL",
         }
     # initialize a webdriver
-    driver = webdriver.Firefox(profile, executable_path=params.exec_path)
+    driver = webdriver.Firefox(profile)
     # get the url
     driver.get(params.web_page)
 

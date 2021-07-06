@@ -5,6 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver import FirefoxOptions
+
 import pandas as pd
 import numpy as np
 import time
@@ -147,8 +149,13 @@ def main(params):
             "sslProxy": PROXY,
             "proxyType": "MANUAL",
         }
+        
+    
+    opts = FirefoxOptions()
+    opts.add_argument("--headless")
+
     # initialize a webdriver
-    driver = webdriver.Firefox(profile)
+    driver = webdriver.Firefox(firefox_options=opts, profile)
     # get the url
     driver.get(params.web_page)
 

@@ -109,9 +109,11 @@ def iteration(driver, item, delays, collected_data):
 
                 # temporary dictionary of the product data
                 temp = {
+                    'website': "BolCom",
                     'item': item,
                     'product': product_header[0].text,
                     'seller': _seller,
+                    'time': pd.to_datetime('now').strftime("%Y-%m-%d %H:%M:%S"),
                     'price': price}
 
                 collected_data.append(temp)                                                     # append the data

@@ -153,7 +153,7 @@ def main(params):
     opts = FirefoxOptions()
     opts.add_argument("--headless")
     # initialize a webdriver
-    driver = webdriver.Firefox(profile, executable_path=params.exec_path)
+    driver = webdriver.Firefox(firefox_options=opts, firefox_profile=profile)
     # get the url
     driver.get(params.web_page)
 

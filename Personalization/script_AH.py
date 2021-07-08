@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver import FirefoxOptions
 import pandas as pd
 import numpy as np
 import time
@@ -104,9 +105,11 @@ def iteration(driver, item, delays, collected_data):
 
                 # temporary dictionary of the product data
                 temp = {
+                    'website': "AH",
                     'item': item,
                     'product': product_name[0].text,
                     'description': details_description,
+                    'time': pd.to_datetime('now').strftime("%Y-%m-%d %H:%M:%S"),
                     'price': price}
 
                 collected_data.append(temp)                                                 # append the data
@@ -144,8 +147,11 @@ def main(params):
             "sslProxy": PROXY,
             "proxyType": "MANUAL",
         }
+        
+    opts = FirefoxOptions()
+    opts.add_argument("--headless")
     # initialize a webdriver
-    driver = webdriver.Firefox(profile, executable_path=params.exec_path)
+    driver = webdriver.Firefox(firefox_options=opts, firefox_profile=profile)
     # get the url
     driver.get(params.web_page)
 
@@ -195,7 +201,7 @@ def main(params):
 
     print("Writing csv file...")
     df = pd.DataFrame(collected_data)
-    df.to_csv(f'{params.exp_name}.csv', index=False)
+    df.to_csv(f'{params.exp_name}' + '_' + pd.to_datetime('now').strftime("%Y-%m-%d %H:%M:%S") + ".csv", index=False)
     print("Writing finished.")
 
     # close the driver
@@ -207,4 +213,3 @@ if __name__ == '__main__':
 
     # run the script
     main(params)
-

@@ -208,7 +208,7 @@ def main(params):
 
     print("Writing csv file...")
     df = pd.DataFrame(collected_data)
-    df.to_csv(f'{params.exp_name}.csv', index=False)
+    df.to_csv(f'{params.exp_name}' + '_' + pd.to_datetime('now').strftime("%Y-%m-%d %H:%M:%S") + ".csv", index=False)
     print("Writing finished.")
 
     # close the driver

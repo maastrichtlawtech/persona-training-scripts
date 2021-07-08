@@ -25,10 +25,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       # Tells Github to run the file `scraper.py` from your repository
-      - name: Run Scraper
+      - name: Run Bolcom Scraper
         run: |
           python Personalization/script_BolCom.py --exp_name BC_second_exp2 --items_list sneakers parfum sandalen horloge rugzak zonnebril kostuum trainingspak badpak jurk overhemd mantel laarzen koptelefoon yogamat sjaal badjas halsketting portemonnee --web_page https://www.bol.com/ --ua_string "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
-          dir
+      - name: Run AH Scraper
+        run: |
+          python Personalization/script_AH.py --exp_name AH_second_exp2 --items_list shampoo boter toiletpapier pizza brood wafels ijsbergsla kefir waspoeder kattenbakvulling melk rijst bier frisdrank bananen kaas luiers tandpasta tofu --web_page https://www.ah.nl/ --ua_string "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+      - name: Run Bonprix Scraper
+        run: |
+          python Personalization/script_Bonprix.py --exp_name BO_second_exp2 --items_list tafellaken rok muts rugzak vloerkleed sweatshirt horloge ladekast overhemd jurk sneakers kussen colbert bank badjas badpak pyjama jas spiegel --web_page https://www.bonprix.nl/ --ua_string "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+      - name: Run CoolBlue Scraper
+        run: |
+          python Personalization/script_CoolBlue.py --exp_name CB_second_exp2 --items_list strijkdeken steelstofzuiger vaatwasser printer loopband tondeuse fohn grasmaaier koptelefoon wasmachine laptop cameras scheerapparaat strijkplank e-reader hoofdtelefoon koelkast oven smartphone magnetron --web_page https://www.coolblue.nl/ --ua_string "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+      - name: Run Lidl Scraper
+        run: |
+          python Personalization/script_Lidl.py --exp_name LI_second_exp2 --items_list sweatshirt vloerkleed ladekast tafellamp slaapzak haardroger rugzak fiets ladder koelkast koffer helm autostoel plafondlamp badkamerkast matrastopper babyschommel koptelefoon loopfiets --web_page https://www.lidl-shop.nl/ --ua_string "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+      - name: Run MediaMarkt Scraper
+        run: |
+          python Personalization/script_MediaMarkt.py --exp_name MM_second_exp2 --items_list steelstofzuiger vaatwasser printer loopband tondeuse fohn koptelefoon wasmachine laptop cameras scheerapparaat strijkplank e-reader hoofdtelefoon koelkast oven smartphone magnetron --web_page https://www.mediamarkt.nl/ --ua_string "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" 
+          
       
       - name: Commit files
         id: commit

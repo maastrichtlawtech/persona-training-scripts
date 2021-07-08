@@ -27,7 +27,7 @@ jobs:
       # Tells Github to run the file `scraper.py` from your repository
       - name: Run Scraper
         run: |
-          python Personalization/script_BolCom.py scrape
+          python Personalization/script_BolCom.py --exp_name BC_second_exp2 --items_list sneakers parfum sandalen horloge rugzak zonnebril kostuum trainingspak badpak jurk overhemd mantel laarzen koptelefoon yogamat sjaal badjas halsketting portemonnee --web_page https://www.bol.com/ --ua_string "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
           dir
       
       - name: Commit files

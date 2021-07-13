@@ -1,0 +1,566 @@
+website,item,product,description,time,price
+AH,shampoo,Andrélon Classic shampoo iedere dag,300 ml,2021-07-13 23:15:32,3.99
+AH,shampoo,Loving Blends Honinggoud shampoo,300 ml,2021-07-13 23:15:32,4.29
+AH,shampoo,Palmolive Elke dag shampoo met kamille-extract,350 ml,2021-07-13 23:15:32,1.89
+AH,shampoo,Elvive Shampoo dream lengths,250 ml,2021-07-13 23:15:32,4.99
+AH,shampoo,Andrélon Special shampoo oil & care,300 ml,2021-07-13 23:15:32,5.39
+AH,shampoo,Andrélon Classic shampoo hair & body men,300 ml,2021-07-13 23:15:32,4.49
+AH,shampoo,Elvive Shampoo color-vive,250 ml,2021-07-13 23:15:32,4.69
+AH,shampoo,Andrélon Classic shampoo en conditioner 2 in 1,300 ml,2021-07-13 23:15:32,3.59
+AH,shampoo,Head & Shoulders Antiroos shampoo classic clean,285 ml,2021-07-13 23:15:32,5.49
+AH,shampoo,Andrélon Shampoo glans zomertarwe,300 ml,2021-07-13 23:15:32,3.15
+AH,shampoo,Andrélon Classic shampoo langer fris,300 ml,2021-07-13 23:15:32,3.99
+AH,shampoo,Andrélon Classic shampoo perfecte krul,300 ml,2021-07-13 23:15:32,4.49
+AH,shampoo,Neutral Normaal shampoo,250 ml,2021-07-13 23:15:32,4.89
+AH,shampoo,Andrélon Special shampoo kokos boost,300 ml,2021-07-13 23:15:32,5.39
+AH,shampoo,Elvive Multivitamines 2 in 1 shampoo,250 ml,2021-07-13 23:15:32,4.79
+AH,shampoo,Schwarzkopf Shampoo kids blauw,250 ml,2021-07-13 23:15:32,2.99
+AH,shampoo,Andrélon Shampoo anti-roos,300 ml,2021-07-13 23:15:32,4.49
+AH,shampoo,Andrélon Classic shampoo iedere dag men,300 ml,2021-07-13 23:15:32,4.49
+AH,shampoo,Schwarzkopf Shampoo kids roze,250 ml,2021-07-13 23:15:32,2.99
+AH,shampoo,Care Shampoo iedere dag peach,500 ml,2021-07-13 23:15:32,0.89
+AH,shampoo,Andrélon Shampoo zomerblond,300 ml,2021-07-13 23:15:32,4.79
+AH,shampoo,Elvive Shampoo nutri-gloss,250 ml,2021-07-13 23:15:32,4.39
+AH,shampoo,Andrélon Shampoo volume & care,300 ml,2021-07-13 23:15:32,4.79
+AH,shampoo,Care Shampoo iedere dag 7 kruiden,500 ml,2021-07-13 23:15:32,0.89
+AH,shampoo,Andrélon Special shampoo zilver care,300 ml,2021-07-13 23:15:32,7.49
+AH,shampoo,Guhl Zilver & vitaliteit shampoo,250 ml,2021-07-13 23:15:32,7.49
+AH,shampoo,Zwitsal Shampoo baby,200 ml,2021-07-13 23:15:32,3.29
+AH,shampoo,Palmolive Naturals fresh & volume shampoo,350 ml,2021-07-13 23:15:32,2.09
+AH,shampoo,Schwarzkopf Shampoo 7 kruiden,400 ml,2021-07-13 23:15:32,2.39
+AH,shampoo,Andrélon Droogshampoo verrassend volume,245 ml,2021-07-13 23:15:32,5.99
+AH,shampoo,Zwitsal Baby shampoo,500 ml,2021-07-13 23:15:32,6.85
+AH,shampoo,Care Shampoo iedere dag men,500 ml,2021-07-13 23:15:32,0.89
+AH,shampoo,Head & Shoulders Antiroos shampoo jeukende hoofdhuid,285 ml,2021-07-13 23:15:32,5.49
+AH,shampoo,Schwarzkopf Shampoo elke dag,400 ml,2021-07-13 23:15:32,2.39
+AH,shampoo,Elvive Extraordinary shampoo,250 ml,2021-07-13 23:15:32,4.99
+AH,shampoo,Andrélon Shampoo prinses,300 ml,2021-07-13 23:15:32,3.89
+AH,boter,De Zaanse Hoeve Roomboter ongezouten,250 g,2021-07-13 23:15:50,1.89
+AH,boter,AH Roomboter ongezouten,250 g,2021-07-13 23:15:50,2.35
+AH,boter,AH Halvarine lekker op brood,500 g,2021-07-13 23:15:50,0.75
+AH,boter,Campina Botergoud ongezouten grasboter,250 g,2021-07-13 23:15:50,2.59
+AH,boter,Blue Band Halvarine 100% vegan met 8 vitamines,500 g,2021-07-13 23:15:50,1.49
+AH,boter,AH Roomboter ongezouten in de kuip,250 g,2021-07-13 23:15:51,2.39
+AH,boter,AH Goed begin - lekker op brood,500 g,2021-07-13 23:15:51,0.95
+AH,boter,AH Biologisch Roomboter ongezouten,250 g,2021-07-13 23:15:51,2.55
+AH,boter,"Blue Band 100% vegan voor koken, bakken en braden",250 g,2021-07-13 23:15:51,1.45
+AH,boter,Becel Light vegan halvarine voordeelpak,575 g,2021-07-13 23:15:51,3.09
+AH,boter,Blue Band Goede start! 100% vegan met 8 vitamines,500 g,2021-07-13 23:15:51,1.75
+AH,boter,AH Kruidenboter,100 g,2021-07-13 23:15:51,0.99
+AH,boter,Flower Farm Smeren zonder palm,375 g,2021-07-13 23:15:51,2.29
+AH,boter,Croma Bakken en braden met vitamine a & d,250 g,2021-07-13 23:15:51,1.55
+AH,boter,Blue Band Iedere dag vloeibaar vegan voordeelfles,750 ml,2021-07-13 23:15:51,2.25
+AH,boter,AH Vloeibaar basis,"0,75 l",2021-07-13 23:15:51,1.29
+AH,boter,Croma Bakken en braden vloeibaar xl-verpakking,750 ml,2021-07-13 23:15:51,3.69
+AH,boter,AH Zeezoutboter,100 g,2021-07-13 23:15:51,1.39
+AH,boter,AH Vloeibaar bak en braden,"0,5 l",2021-07-13 23:15:51,1.19
+AH,boter,Becel Original vegan margarine voordeelpak,575 g,2021-07-13 23:15:51,3.19
+AH,boter,AH Light,500 g,2021-07-13 23:15:51,0.75
+AH,boter,Lurpak Smeerbaar ongezouten,250 g,2021-07-13 23:15:51,2.39
+AH,boter,AH Roomboter gezouten in de kuip,250 g,2021-07-13 23:15:51,2.39
+AH,boter,"Blue Band Voor koken, bakken en braden voordeelpak",500 g,2021-07-13 23:15:51,2.39
+AH,boter,AH Kruidenboter met knoflook,110 g,2021-07-13 23:15:51,2.00
+AH,boter,Becel Light vegan halvarine met omega 3,250 g,2021-07-13 23:15:51,1.65
+AH,boter,Campina Botergoud ongezouten grasboter kuipje,225 g,2021-07-13 23:15:51,2.59
+AH,boter,Campina Botergoud ongezouten roomboter,250 g,2021-07-13 23:15:51,2.39
+AH,boter,Blue Band Iedere dag vloeibaar 100% vegan,500 ml,2021-07-13 23:15:51,1.95
+AH,boter,Lurpak Smeerbaar gezouten,250 g,2021-07-13 23:15:51,2.35
+AH,boter,Becel Original vegan margarine met omega 3,250 g,2021-07-13 23:15:51,1.65
+AH,boter,Flower Farm Smeren zonder palmolie,225 g,2021-07-13 23:15:51,1.45
+AH,boter,Remia Vloeibaar bakken & braden,400 ml,2021-07-13 23:15:51,1.55
+AH,boter,Alpro Lekker gezond smeren,250 g,2021-07-13 23:15:51,0.95
+AH,boter,Becel Romig vegan margarine voordeelpak,575 g,2021-07-13 23:15:51,3.09
+AH,boter,Becel Vloeibare bakboter voor vlees en jus,450 ml,2021-07-13 23:15:51,2.55
+AH,toiletpapier,AH Zacht toiletpapier 4-lagen,16 rollen,2021-07-13 23:16:09,5.65
+AH,toiletpapier,AH Vochtig toiletpapier aloë vera,40 stuks,2021-07-13 23:16:09,0.99
+AH,toiletpapier,AH Zacht & sterk toiletpapier 3-laags,16 rollen,2021-07-13 23:16:09,4.69
+AH,toiletpapier,AH Vochtig toiletpapier bloemen,40 stuks,2021-07-13 23:16:09,0.99
+AH,toiletpapier,Page Compleet schoon toiletpapier,24 rollen,2021-07-13 23:16:09,11.49
+AH,toiletpapier,AH Zacht & sterk toiletpapier 3-laags,9 rollen,2021-07-13 23:16:09,2.69
+AH,toiletpapier,AH 4 laags toiletpapier,9 stuks,2021-07-13 23:16:09,3.19
+AH,toiletpapier,Page Vochtig toiletpapier sensitive,38 stuks,2021-07-13 23:16:09,1.59
+AH,toiletpapier,AH Keukenpapier maxi decor rol,2 stuks,2021-07-13 23:16:09,1.89
+AH,toiletpapier,AH Eco Toiletpapier sterk,8 stuks,2021-07-13 23:16:09,2.25
+AH,toiletpapier,Page Vochtig toiletpapier aloë vera,38 stuks,2021-07-13 23:16:09,1.79
+AH,toiletpapier,Page Vochtig toiletpapier fresh,38 stuks,2021-07-13 23:16:09,1.79
+AH,toiletpapier,AH Vochtig toiletpapier fresh,80 stuks,2021-07-13 23:16:09,0.99
+AH,toiletpapier,Page Kussenzacht toiletpapier,12 rollen,2021-07-13 23:16:09,5.49
+AH,toiletpapier,AH Eco Toiletpapier sterk extra lang,4 stuks,2021-07-13 23:16:10,1.69
+AH,toiletpapier,Popla Megarol toiletpapier,4 rollen,2021-07-13 23:16:10,2.95
+AH,toiletpapier,Edet Pure vochtig toiletpapier,40 stuks,2021-07-13 23:16:10,2.29
+AH,toiletpapier,AH Toiletpapier 2 laags,24 stuks,2021-07-13 23:16:10,4.79
+AH,toiletpapier,Page Fresh vochtig toiletpapier voordeel,76 stuks,2021-07-13 23:16:10,2.55
+AH,toiletpapier,Page Vochtig toiletpapier sheabutter,38 stuks,2021-07-13 23:16:10,1.99
+AH,toiletpapier,Page Kussenzacht toiletpapier,6 rollen,2021-07-13 23:16:10,2.79
+AH,toiletpapier,Edet Kamille vochtig toiletpapier,42 stuks,2021-07-13 23:16:10,2.29
+AH,toiletpapier,Nalys Excellence 5-laags maxi-vel toiletpapier,6 rollen,2021-07-13 23:16:10,3.99
+AH,toiletpapier,AH Toiletpapier 2-laags Extra Lang 4=6,4 stuks,2021-07-13 23:16:10,1.19
+AH,toiletpapier,Edet Vochtig toiletpapier rich almond,42 stuks,2021-07-13 23:16:10,2.29
+AH,toiletpapier,AH Toiletpapier 4-laags Extra Lang 4=6,4 rollen,2021-07-13 23:16:10,2.15
+AH,toiletpapier,Edet Comfort X-Long,4 rollen,2021-07-13 23:16:10,2.45
+AH,toiletpapier,Nalys Velours maxi-vel toiletpapier,6 rollen,2021-07-13 23:16:10,3.65
+AH,toiletpapier,Edet Ultra soft 4-laags toiletpapier,6 rollen,2021-07-13 23:16:10,4.29
+AH,toiletpapier,AH Toiletpapier Aloë Vera,6 stuks,2021-07-13 23:16:10,2.79
+AH,toiletpapier,Page Vochtige sensitive,74 stuks,2021-07-13 23:16:10,2.65
+AH,toiletpapier,AH Toiletpapier 3-laags Extra Lang 4=6,4 rollen,2021-07-13 23:16:10,1.75
+AH,toiletpapier,Blue Wonder Desinfectie reiniger wc doekjes,20 stuks,2021-07-13 23:16:10,2.89
+AH,toiletpapier,Page Eco toiletpapier,4 rollen,2021-07-13 23:16:10,1.99
+AH,toiletpapier,Edet Ultra soft X-tra long 4-laags,4 stuks,2021-07-13 23:16:10,3.59
+AH,toiletpapier,Page Compleet schoon maxi toiletpapier,4 rollen,2021-07-13 23:16:10,2.49
+AH,pizza,Dr. Oetker Ristorante pizza salami,320 g,2021-07-13 23:16:30,2.19
+AH,pizza,AH Pizzadeeg,230 g,2021-07-13 23:16:30,1.99
+AH,pizza,Dr. Oetker Ristorante pizza mozzarella,325 g,2021-07-13 23:16:30,2.19
+AH,pizza,AH Pizzadeeg tomatensaus,600 g,2021-07-13 23:16:30,2.59
+AH,pizza,Magioni Bloemkool pizzabodem,360 g,2021-07-13 23:16:30,3.69
+AH,pizza,Dr. Oetker Ristorante pizza hawaii,350 g,2021-07-13 23:16:30,2.19
+AH,pizza,Dr. Oetker Ristorante pizza quattro formaggi,340 g,2021-07-13 23:16:30,2.49
+AH,pizza,Wagner Piccolinis salami,270 g,2021-07-13 23:16:30,2.35
+AH,pizza,Dr. Oetker Ristorante pizza margherita,295 g,2021-07-13 23:16:30,2.89
+AH,pizza,Dr. Oetker Ristorante pizza salami mozzarella pesto,360 g,2021-07-13 23:16:31,2.95
+AH,pizza,Dr. Oetker Ristorante pizza tonno,355 g,2021-07-13 23:16:31,2.19
+AH,pizza,Dr. Oetker Ristorante pizza pollo,355 g,2021-07-13 23:16:31,2.39
+AH,pizza,AH Houtoven pizzabodems,500 g,2021-07-13 23:16:31,2.89
+AH,pizza,Tante Fanny Vers flammkuchendeeg,260 g,2021-07-13 23:16:31,1.99
+AH,pizza,Dr. Oetker Big americans pizza texas,435 g,2021-07-13 23:16:31,3.99
+AH,pizza,Dr. Oetker Ristorante pizza funghi,365 g,2021-07-13 23:16:31,2.45
+AH,pizza,AH Krokante pizza salami,per stuk,2021-07-13 23:16:31,1.99
+AH,pizza,Dr. Oetker Casa di mama pizza salami,390 g,2021-07-13 23:16:31,3.19
+AH,pizza,AH Krokante pizza Margherita,2 stuks,2021-07-13 23:16:31,1.79
+AH,pizza,Wagner Piccolinis tomaat-mozzarella,270 g,2021-07-13 23:16:31,2.45
+AH,pizza,Dr. Oetker Big americans pizza BBQ chicken,455 g,2021-07-13 23:16:31,3.69
+AH,pizza,Dr. Oetker Yes it's pizza spinaziebodem,335 g,2021-07-13 23:16:31,3.49
+AH,pizza,Dr. Oetker Ristorante pizza diavola,350 g,2021-07-13 23:16:31,2.99
+AH,pizza,Dr. Oetker Ristorante pizza speciale,330 g,2021-07-13 23:16:31,2.59
+AH,pizza,Dr. Oetker Ristorante pizza bolognese,375 g,2021-07-13 23:16:31,2.99
+AH,pizza,Magioni Courgette bodem,360 g,2021-07-13 23:16:31,3.69
+AH,pizza,AH Pizza kaas-tomaat,300 g,2021-07-13 23:16:31,0.99
+AH,pizza,AH Pizza margherita,310 g,2021-07-13 23:16:31,3.99
+AH,pizza,Dr. Oetker La margherita pizza classico,265 g,2021-07-13 23:16:31,2.35
+AH,pizza,Dr. Oetker Big americans pizza hawaii,455 g,2021-07-13 23:16:31,3.99
+AH,pizza,Wagner Piccolinis 3 kazen,270 g,2021-07-13 23:16:31,2.49
+AH,pizza,La Tua Farina Bloem voor pizzadeeg,500 g,2021-07-13 23:16:31,1.09
+AH,pizza,Dr. Oetker Mini pizza salami,4 x 80 g,2021-07-13 23:16:31,2.79
+AH,pizza,Dr. Oetker Ristorante pizza mozzarella glutenvrij,370 g,2021-07-13 23:16:31,3.79
+AH,pizza,Dr. Oetker Casa di mama pizza quattro formaggi,410 g,2021-07-13 23:16:31,2.99
+AH,pizza,Dr. Oetker Casa di mama pizza hawaii,410 g,2021-07-13 23:16:31,3.09
+AH,brood,AH Zaans volkoren heel,per stuk,2021-07-13 23:16:53,1.25
+AH,brood,AH Tijger volkoren heel ovenvers,per stuk,2021-07-13 23:16:53,1.94
+AH,brood,AH Zaans volkoren half,per stuk,2021-07-13 23:16:53,0.69
+AH,brood,AH Les pains madeleine heel,per stuk,2021-07-13 23:16:53,2.19
+AH,brood,AH Tijger bruin heel,per stuk,2021-07-13 23:16:53,1.07
+AH,brood,AH Volkoren heel,per stuk,2021-07-13 23:16:53,0.99
+AH,brood,AH Tijger bruin half,per stuk,2021-07-13 23:16:53,0.59
+AH,brood,AH Les pains boulogne heel,per stuk,2021-07-13 23:16:53,2.19
+AH,brood,AH Les pains triomphe heel,per stuk,2021-07-13 23:16:53,2.19
+AH,brood,AH Casino wit half,per stuk,2021-07-13 23:16:53,0.65
+AH,brood,AH Waldkorn Heel,per stuk,2021-07-13 23:16:53,2.05
+AH,brood,AH Les pains boulogne half,per stuk,2021-07-13 23:16:53,1.15
+AH,brood,AH Tijger wit half,per stuk,2021-07-13 23:16:53,0.55
+AH,brood,AH Bruin heel,per stuk,2021-07-13 23:16:53,0.80
+AH,brood,AH Waldkorn Volkoren half,per stuk,2021-07-13 23:16:53,1.09
+AH,brood,AH Zaans bruin heel,per stuk,2021-07-13 23:16:53,1.25
+AH,brood,AH Vloer meergranen heel,per stuk,2021-07-13 23:16:53,2.56
+AH,brood,AH Tijger wit heel,per stuk,2021-07-13 23:16:53,0.99
+AH,brood,AH Liefde & Passie Spelt volkoren (gesneden),per stuk,2021-07-13 23:16:53,2.79
+AH,brood,AH Zaanse snijder bruin half,per stuk,2021-07-13 23:16:53,0.69
+AH,brood,AH Liefde & Passie Spelt (gesneden),per stuk,2021-07-13 23:16:53,2.79
+AH,brood,AH Les pains bastille heel,per stuk,2021-07-13 23:16:53,2.19
+AH,brood,AH Tijger volkoren half ovenvers,per stuk,2021-07-13 23:16:53,1.02
+AH,brood,AH Casino wit heel,per stuk,2021-07-13 23:16:53,1.19
+AH,brood,AH Kaiser broodjes,4 stuks,2021-07-13 23:16:53,0.50
+AH,brood,AH Waldkorn Volkoren heel,per stuk,2021-07-13 23:16:53,2.05
+AH,brood,AH Boeren donker volkoren half,per stuk,2021-07-13 23:16:53,0.99
+AH,brood,AH Vloer volkoren heel,per stuk,2021-07-13 23:16:54,2.56
+AH,brood,AH Boerenvolkoren sesam heel,per stuk,2021-07-13 23:16:54,1.49
+AH,brood,AH Les pains madeleine half,per stuk,2021-07-13 23:16:54,1.15
+AH,brood,AH Krenten- en rozijnenbrood half,per stuk,2021-07-13 23:16:54,1.69
+AH,brood,AH Zaans wit half,per stuk,2021-07-13 23:16:54,0.69
+AH,brood,AH Les pains triomphe half,per stuk,2021-07-13 23:16:54,1.15
+AH,brood,Bolletje Fries roggebrood,500 g,2021-07-13 23:16:54,1.35
+AH,brood,AH Biologisch Vloer meerzaden heel,per stuk,2021-07-13 23:16:54,2.79
+AH,brood,AH Boerenvolkoren sesam half,per stuk,2021-07-13 23:16:54,0.79
+AH,wafels,AH Penny wafels,150 g,2021-07-13 23:17:13,0.69
+AH,wafels,Jules Destrooper Parijse wafel,100 g,2021-07-13 23:17:13,1.99
+AH,wafels,AH Luikse wafels,550 g,2021-07-13 23:17:13,1.35
+AH,wafels,AH Koffiewafels,175 g,2021-07-13 23:17:13,1.35
+AH,wafels,AH Eierwafels,6 stuks,2021-07-13 23:17:13,0.73
+AH,wafels,Knoppers Melk hazelnootwafel,5 x 25 g,2021-07-13 23:17:13,1.29
+AH,wafels,AH Galette wafels,250 g,2021-07-13 23:17:13,0.99
+AH,wafels,Verkade Frou Frou vanille,150 g,2021-07-13 23:17:13,1.09
+AH,wafels,Verkade Mokka sticks,150 g,2021-07-13 23:17:13,1.49
+AH,wafels,AH Luikse wafels choco,325 g,2021-07-13 23:17:13,1.05
+AH,wafels,Jules Destrooper Boterwafels,100 g,2021-07-13 23:17:13,1.65
+AH,wafels,AH Duo wafels,10 x 25 g,2021-07-13 23:17:13,1.35
+AH,wafels,Kanjers Chocowafels,180 g,2021-07-13 23:17:13,1.45
+AH,wafels,AH Javawafels,250 g,2021-07-13 23:17:13,0.99
+AH,wafels,Manner Original neapolitan,75 g,2021-07-13 23:17:13,0.99
+AH,wafels,Kanjers Chocolade witte chocolade,180 g,2021-07-13 23:17:13,1.69
+AH,wafels,AH Rijstwafels,130 g,2021-07-13 23:17:13,0.39
+AH,wafels,AH Stroopwafels,12 stuks,2021-07-13 23:17:13,1.65
+AH,wafels,Lotus Wafels vanille aap,8 stuks,2021-07-13 23:17:13,1.85
+AH,wafels,AH Wafels,250 g,2021-07-13 23:17:13,1.29
+AH,wafels,Manner Minis original neapolitan,150 g,2021-07-13 23:17:13,1.99
+AH,wafels,Manner Milk-hazelnut wafer,125 g,2021-07-13 23:17:13,0.99
+AH,wafels,AH Maiswafel paprika portie,104 g,2021-07-13 23:17:13,1.19
+AH,wafels,AH Rijstwafels met zeezout,12 stuks,2021-07-13 23:17:13,0.85
+AH,wafels,AH Rijstwafels meergranen,12 stuks,2021-07-13 23:17:13,0.85
+AH,wafels,AH Biologisch Rijstwafels met zeezout,15 stuks,2021-07-13 23:17:13,0.59
+AH,wafels,AH Dikke maiswafel,138 g,2021-07-13 23:17:13,0.85
+AH,wafels,AH Gepofte wafels naturel,70 g,2021-07-13 23:17:13,2.85
+AH,wafels,AH Verse stroopwafels,8 stuks,2021-07-13 23:17:13,1.99
+AH,wafels,Homemade Shake & bake wafels,350 g,2021-07-13 23:17:13,2.45
+AH,wafels,AH Rijstwafels melkchocolade,150 g,2021-07-13 23:17:13,0.95
+AH,wafels,AH Mini stroopwafels,300 g,2021-07-13 23:17:13,1.89
+AH,wafels,Snack a Jacks Rijstwafels kaas,120 g,2021-07-13 23:17:14,1.75
+AH,wafels,AH Glutenvrij Belgische wafels,120 g,2021-07-13 23:17:14,2.89
+AH,wafels,AH Rijstwafels pure chocolade,150 g,2021-07-13 23:17:14,0.95
+AH,wafels,AH Verse mini stroopwafels,184 g,2021-07-13 23:17:14,1.99
+AH,ijsbergsla,AH IJsbergsla,per krop,2021-07-13 23:17:34,0.85
+AH,ijsbergsla,AH IJsbergsla,200 g,2021-07-13 23:17:35,1.00
+AH,ijsbergsla,AH Fijngesneden ijsbergsla,100 g,2021-07-13 23:17:35,0.79
+AH,ijsbergsla,AH IJsbergsla melange,200 g,2021-07-13 23:17:35,1.19
+AH,ijsbergsla,AH Ijsbergsla groot verpakking,400 g,2021-07-13 23:17:35,1.99
+AH,ijsbergsla,AH IJsbergsla melange,100 g,2021-07-13 23:17:35,0.99
+AH,kefir,Arla Biologische kefir naturel,1 l,2021-07-13 23:17:56,1.85
+AH,kefir,AH Kefir,1 l,2021-07-13 23:17:56,1.25
+AH,kefir,Healthy People Kefir,500 ml,2021-07-13 23:17:56,0.99
+AH,kefir,Healthy People Kefir blauwe bosbessensmaak,500 ml,2021-07-13 23:17:56,1.19
+AH,kefir,Arla Biologische kefir naturel,"0,5 l",2021-07-13 23:17:56,1.39
+AH,waspoeder,AH Waspoeder kleur,30 wasbeurten,2021-07-13 23:18:13,2.59
+AH,waspoeder,HG Wasm.tegen nare geurtjes in sportkleding,500 g,2021-07-13 23:18:13,4.99
+AH,waspoeder,Ariel Poeder color,13 wasbeurten,2021-07-13 23:18:13,6.49
+AH,waspoeder,Ariel Poeder original,10 wasbeurten,2021-07-13 23:18:13,5.29
+AH,waspoeder,Neutral Parfumvrij waspoeder kleur,18 wasbeurten,2021-07-13 23:18:13,5.99
+AH,waspoeder,AH Waspoeder wit,30 wasbeurten,2021-07-13 23:18:13,2.59
+AH,waspoeder,Persil Waspoeder megaperls color,15 wasbeurten,2021-07-13 23:18:13,7.99
+AH,waspoeder,Lenor Pods robijn jasmijn wasmiddelcapsules,10 wasbeurten,2021-07-13 23:18:13,6.49
+AH,waspoeder,Persil Waspoeder megaperls power wit,15 wasbeurten,2021-07-13 23:18:14,7.99
+AH,waspoeder,Witte Reus Poeder,65 wasbeurten,2021-07-13 23:18:14,19.99
+AH,waspoeder,Klok Waspoeder kleur,18 wasbeurten,2021-07-13 23:18:14,4.99
+AH,waspoeder,Lenor Geurparels Robijn Jasmijn,140 g,2021-07-13 23:18:14,5.99
+AH,waspoeder,Neutral Parfumvrij waspoeder witte was,18 wasbeurten,2021-07-13 23:18:14,5.99
+AH,waspoeder,Color Reus Waspoeder,16 wasbeurten,2021-07-13 23:18:14,6.49
+AH,waspoeder,AH Eco wasmiddel puur kleur poeder,18 wasbeurten,2021-07-13 23:18:14,3.19
+AH,waspoeder,Robijn Fleur & fijn waspoeder kleur,10 wasbeurten,2021-07-13 23:18:14,3.49
+AH,waspoeder,Witte Reus Waspoeder,16 wasbeurten,2021-07-13 23:18:14,6.49
+AH,waspoeder,Color Reus Poeder,65 wasbeurten,2021-07-13 23:18:14,19.99
+AH,waspoeder,Dr. Beckmann Active white doekjes,15 wasbeurten,2021-07-13 23:18:14,3.19
+AH,waspoeder,Dr. Beckmann Super wit,4 wasbeurten,2021-07-13 23:18:14,3.19
+AH,waspoeder,Omo Waspoeder color,14 wasbeurten,2021-07-13 23:18:14,3.99
+AH,waspoeder,Klok Waspoeder wit,18 wasbeurten,2021-07-13 23:18:14,4.99
+AH,waspoeder,AH Eco Wasmiddel puur wit poeder,18 wasbeurten,2021-07-13 23:18:14,3.19
+AH,waspoeder,Ecover Waspoeder universal,16 wasbeurten,2021-07-13 23:18:14,7.99
+AH,waspoeder,Omo Waspoeder wit,14 wasbeurten,2021-07-13 23:18:14,3.99
+AH,waspoeder,HG Witter dan wit,400 g,2021-07-13 23:18:14,3.99
+AH,waspoeder,Dreft Ultimate care poeder wasmiddel colour,"1,12 kg",2021-07-13 23:18:14,3.86
+AH,waspoeder,Seepje Superschillen gewoon neutraal,30 wasbeurten,2021-07-13 23:18:14,7.99
+AH,waspoeder,Biotex Waspoeder handwas & inweek,750 g,2021-07-13 23:18:14,4.79
+AH,waspoeder,Biotex Wasmiddel waskrachtversterker waspoeder,750 g,2021-07-13 23:18:14,4.79
+AH,waspoeder,Sun Vaatwaspoeder normaal,"1,36 kg",2021-07-13 23:18:14,9.49
+AH,kattenbakvulling,AH Schep & schoon 4-voudige hygiëne,6 l,2021-07-13 23:18:36,3.99
+AH,kattenbakvulling,AH Kattenbakkorrels sensitive,10 l,2021-07-13 23:18:36,2.79
+AH,kattenbakvulling,AH Kattenbak houtkorrels,10 l,2021-07-13 23:18:36,4.39
+AH,kattenbakvulling,AH Schep & schoon fijn,6 l,2021-07-13 23:18:36,2.89
+AH,kattenbakvulling,Catsan Hygiene plus kattenbakkorrels,"11,5 l",2021-07-13 23:18:36,5.89
+AH,kattenbakvulling,AH Schep & schoon blue signal,8 l,2021-07-13 23:18:36,6.99
+AH,kattenbakvulling,Catsan Kattenbakvulling - smart pack,2 x 2 l,2021-07-13 23:18:36,8.99
+AH,kattenbakvulling,Vitakraft Kattenbakzakken klein formaat,15 stuks,2021-07-13 23:18:36,2.89
+AH,kattenbakvulling,Catsan Natural kattenbakkorrels bio,8 l,2021-07-13 23:18:36,10.99
+AH,kattenbakvulling,AH Kattenbak s&s hygiëne,6 l,2021-07-13 23:18:36,2.99
+AH,melk,De Zaanse Hoeve Halfvolle melk,2 l,2021-07-13 23:18:55,1.75
+AH,melk,AH Halfvolle melk,1 l,2021-07-13 23:18:55,0.99
+AH,melk,AH Halfvolle melk,"1,5 l",2021-07-13 23:18:55,1.49
+AH,melk,De Zaanse Hoeve Halfvolle melk houdbaar,1 l,2021-07-13 23:18:55,0.95
+AH,melk,De Zaanse Hoeve Halfvolle melk,1 l,2021-07-13 23:18:55,0.89
+AH,melk,AH Halfvolle melk,1 l,2021-07-13 23:18:55,1.05
+AH,melk,De Zaanse Hoeve Volle melk,1 l,2021-07-13 23:18:55,0.95
+AH,melk,AH Biologisch Halfvolle melk,"1,5 l",2021-07-13 23:18:55,1.59
+AH,melk,Campina Langlekker halfvolle melk,1 l,2021-07-13 23:18:55,1.25
+AH,melk,De Zaanse Hoeve Karnemelk,1 l,2021-07-13 23:18:55,0.79
+AH,melk,AH Biologisch Volle melk,1 l,2021-07-13 23:18:55,1.19
+AH,melk,AH Biologisch Halfvolle melk,1 l,2021-07-13 23:18:55,1.09
+AH,melk,AH Biologisch Halfvolle melk houdbaar,1 l,2021-07-13 23:18:55,1.05
+AH,melk,Campina Langlekker volle melk,1 l,2021-07-13 23:18:55,1.35
+AH,melk,AH Volle melk,1 l,2021-07-13 23:18:56,1.15
+AH,melk,Arla Biologische halfvolle melk,"1,5 l",2021-07-13 23:18:56,2.15
+AH,melk,Campina Halfvolle melk,"1,5 l",2021-07-13 23:18:56,1.75
+AH,melk,AH Biologisch Karnemelk,1 l,2021-07-13 23:18:56,1.05
+AH,melk,Campina Halfvolle melk,"2,4 l",2021-07-13 23:18:56,2.59
+AH,melk,De Zaanse Hoeve Magere melk,1 l,2021-07-13 23:18:56,0.79
+AH,melk,AH Magere melk,1 l,2021-07-13 23:18:56,1.09
+AH,melk,AH Biologisch Halfvolle melk,2 l,2021-07-13 23:18:56,1.99
+AH,melk,Arla Lactofree halfvolle melk lactosevrij,1 l,2021-07-13 23:18:56,1.69
+AH,melk,AH Biologisch Volle melk houdbaar,1 l,2021-07-13 23:18:56,1.25
+AH,melk,Campina Halfvolle melk,1 l,2021-07-13 23:18:56,1.25
+AH,melk,AH Karnemelk,1 l,2021-07-13 23:18:56,0.99
+AH,melk,De Zaanse Hoeve Volle melk houdbaar,1 l,2021-07-13 23:18:56,0.99
+AH,melk,Arla Biologische halfvolle melk,1 l,2021-07-13 23:18:56,1.49
+AH,melk,AH Lactosevrije halfvolle melk houdbaar,1 l,2021-07-13 23:18:56,1.19
+AH,melk,AH Halfvolle melk,"0,5 l",2021-07-13 23:18:56,0.69
+AH,melk,Den Eelder Boeren karnemelk,1 l,2021-07-13 23:18:56,1.29
+AH,melk,AH Houdbare melk halfvol,"1,5 l",2021-07-13 23:18:56,1.45
+AH,melk,Campina Karnemelk,1 l,2021-07-13 23:18:56,1.15
+AH,melk,Arla Biologische volle melk,"1,5 l",2021-07-13 23:18:56,2.35
+AH,melk,AH Lactosevrije halfvolle melk vers,1 l,2021-07-13 23:18:56,1.29
+AH,melk,AH Volle melk,1 l,2021-07-13 23:18:56,1.15
+AH,rijst,AH Basmatirijst,1 kg,2021-07-13 23:19:14,1.94
+AH,rijst,AH Basmati rijst,400 g,2021-07-13 23:19:14,1.45
+AH,rijst,AH Zilvervlies rijst,1 kg,2021-07-13 23:19:14,1.69
+AH,rijst,AH Basmati rijst,1 kg,2021-07-13 23:19:14,2.49
+AH,rijst,AH Zilvervlies rijst,400 g,2021-07-13 23:19:14,0.75
+AH,rijst,AH Risotto rijst,500 g,2021-07-13 23:19:14,1.59
+AH,rijst,AH Witte snelkook rijst,400 g,2021-07-13 23:19:14,0.79
+AH,rijst,Lassie Toverrijst,400 g,2021-07-13 23:19:14,1.19
+AH,rijst,Lassie Zilvervliesrijst kortkokend,400 g,2021-07-13 23:19:14,1.25
+AH,rijst,Saitaku Sushi rice,500 g,2021-07-13 23:19:15,2.65
+AH,rijst,AH Pandan rijst,1 kg,2021-07-13 23:19:15,1.79
+AH,rijst,AH Biologisch Zilvervliesrijst,400 g,2021-07-13 23:19:15,1.19
+AH,rijst,AH Witte snelkook rijst voordeel,1 kg,2021-07-13 23:19:15,1.35
+AH,rijst,Lassie Risotto rijst,400 g,2021-07-13 23:19:15,1.49
+AH,rijst,Lassie Minuutje zilvervliesrijst,250 g,2021-07-13 23:19:15,1.35
+AH,rijst,Principato Lucedio Arborio risotto,500 g,2021-07-13 23:19:15,2.49
+AH,rijst,AH Pandan rijst,1 kg,2021-07-13 23:19:15,2.19
+AH,rijst,AH Biologisch Volkoren basmati rijst,400 g,2021-07-13 23:19:15,2.39
+AH,rijst,Lassie Builtjes toverrijst,300 g,2021-07-13 23:19:15,1.49
+AH,rijst,Lassie Panklaar zilvervliesrijst,250 g,2021-07-13 23:19:15,0.99
+AH,rijst,Lassie Basmatirijst extra,400 g,2021-07-13 23:19:15,1.69
+AH,rijst,AH Langgraan rijst,1 kg,2021-07-13 23:19:15,0.89
+AH,rijst,AH 1 Minuut basmati rijst,2 x 150 g,2021-07-13 23:19:15,1.45
+AH,rijst,AH Notenrijst,275 g,2021-07-13 23:19:15,1.49
+AH,rijst,Fairtrade Original Biologische pandan rijst bio,400 g,2021-07-13 23:19:15,1.79
+AH,rijst,Lassie Builtjes zilvervliesrijst,300 g,2021-07-13 23:19:15,1.59
+AH,rijst,AH Gele rijst,325 g,2021-07-13 23:19:15,1.69
+AH,rijst,Lassie Basmati rijst voordeel,750 g,2021-07-13 23:19:15,2.65
+AH,rijst,Lassie Builtjes basmatirijst,300 g,2021-07-13 23:19:15,1.99
+AH,rijst,Lassie Panklaar toverrijst,270 g,2021-07-13 23:19:15,1.85
+AH,rijst,Lassie Toverrijst extra,400 g,2021-07-13 23:19:15,1.29
+AH,rijst,Lassie Minuutje toverrijst,250 g,2021-07-13 23:19:15,1.35
+AH,rijst,AH Pandan rijst,400 g,2021-07-13 23:19:15,1.49
+AH,rijst,Lassie Zilvervliesrijst,750 g,2021-07-13 23:19:15,2.25
+AH,rijst,AH Biologisch Witte rijst,400 g,2021-07-13 23:19:15,1.29
+AH,rijst,Tilda Pure basmati rice,500 g,2021-07-13 23:19:15,2.45
+AH,bier,Hertog Jan Pilsener natuurzuiver Bier,24 x 30 cl,2021-07-13 23:19:34,17.49
+AH,bier,Brouwerij 't IJ borrelpakket,NaN,2021-07-13 23:19:34,12.26
+AH,bier,Heineken Premium pilsener krat,"24 x 0,3 l",2021-07-13 23:19:34,17.29
+AH,bier,Amstel Radler citroen 0.0% blik,"6 x 0,33 l",2021-07-13 23:19:34,3.79
+AH,bier,Heineken Premium pilsener blik,6 x 33 cl,2021-07-13 23:19:34,5.79
+AH,bier,Brouwerij 't IJ IJwit witbier,"0,33 l",2021-07-13 23:19:34,2.09
+AH,bier,Grolsch Pilsener krat,"24 x 0,3 l",2021-07-13 23:19:34,17.29
+AH,bier,Hertog Jan Traditioneel natuurzuiver bier,6 x 33 cl,2021-07-13 23:19:34,5.89
+AH,bier,Corona Extra pils,"6 x 35,5 cl",2021-07-13 23:19:34,8.99
+AH,bier,Texels Skuumkoppe,"0,3 l",2021-07-13 23:19:34,1.65
+AH,bier,Heineken 0.0% blik,"6 x 0,33 l",2021-07-13 23:19:34,4.65
+AH,bier,Leffe Blond abdijbier,6 x 30 cl,2021-07-13 23:19:34,7.29
+AH,bier,Desperados Original fles,"6 x 0,33 l",2021-07-13 23:19:34,8.19
+AH,bier,Amstel Radler citroen,"6 x 0,33 l",2021-07-13 23:19:34,4.29
+AH,bier,Amstel Pilsener krat,"24 x 0,3 l",2021-07-13 23:19:34,14.99
+AH,bier,Brand Pilsener krat,"24 x 0,3 l",2021-07-13 23:19:34,17.29
+AH,bier,Amstel Radler citroen 0.0% fles,"6 x 0,3 l",2021-07-13 23:19:34,4.09
+AH,bier,Amstel Pilsener blik,6 x 33 cl,2021-07-13 23:19:34,3.99
+AH,bier,Jopen Mooie Nel IPA,"0,33 l",2021-07-13 23:19:34,2.39
+AH,bier,Affligem Blond 6-pak,"6 x 0,30 l",2021-07-13 23:19:34,6.89
+AH,bier,Veltins Pilsener,50 cl,2021-07-13 23:19:34,0.79
+AH,bier,Westmalle Tripel trappist,"0,33 l",2021-07-13 23:19:34,1.95
+AH,bier,Amstel Radler citroen fles,"6 x 0,3 l",2021-07-13 23:19:34,3.99
+AH,bier,Jupiler Pilsener,24 x 25 cl,2021-07-13 23:19:34,16.29
+AH,bier,Grolsch Radler citroen 0.0%,6 x 33 cl,2021-07-13 23:19:35,4.29
+AH,bier,Tripel Karmeliet .,4 x 33 cl,2021-07-13 23:19:35,7.59
+AH,bier,Affligem Blond 0.0 6-pak,"6 x 0,3 l",2021-07-13 23:19:35,5.39
+AH,bier,Heineken 0.0% draaidop,"6 x 0,25 l",2021-07-13 23:19:35,3.49
+AH,bier,Desperados Virgin 0.0 bier,6 x 33 cl,2021-07-13 23:19:35,6.99
+AH,bier,La Chouffe Blond speciaalbier 4-pack,"4 x 0,33 l",2021-07-13 23:19:35,7.49
+AH,bier,VandeStreek Playground - non alcoholic IPA,33 cl,2021-07-13 23:19:35,2.05
+AH,bier,Grolsch Radler citroen 0.0%,"6 x 0,3 l",2021-07-13 23:19:35,4.19
+AH,bier,Jever Fun One way,330 ml,2021-07-13 23:19:35,0.99
+AH,bier,Franziskaner Weissbier,50 cl,2021-07-13 23:19:35,1.35
+AH,bier,Grolsch Pilsener krat,"16 x 0,45 l",2021-07-13 23:19:35,17.29
+AH,bier,Erdinger Weissbier,"0,5 l",2021-07-13 23:19:35,1.75
+AH,bier,Bavaria Bier 12-krat pilsener,"12 x 0,3 l",2021-07-13 23:19:35,7.13
+AH,frisdrank,Coca-Cola Zero sugar,1 l,2021-07-13 23:19:52,1.85
+AH,frisdrank,Schweppes Ginger ale,1 l,2021-07-13 23:19:52,1.79
+AH,frisdrank,Coca-Cola Regular,1 l,2021-07-13 23:19:52,1.85
+AH,frisdrank,Lipton Ice tea green,"1,5 l",2021-07-13 23:19:52,2.39
+AH,frisdrank,Fanta Zero,"1,5 l",2021-07-13 23:19:52,2.09
+AH,frisdrank,Coca-Cola Zero sugar multipack,"4 x 1,5 l",2021-07-13 23:19:53,9.15
+AH,frisdrank,AH IJsthee groen,"1,5 l",2021-07-13 23:19:53,0.79
+AH,frisdrank,Fanta Orange,"1,5 l",2021-07-13 23:19:53,1.99
+AH,frisdrank,Coca-Cola Zero sugar,"1,5 l",2021-07-13 23:19:53,2.29
+AH,frisdrank,Coca-Cola Regular,"1,5 l",2021-07-13 23:19:53,2.29
+AH,frisdrank,Crystal Clear Sparkling lemon fles,"1,5 l",2021-07-13 23:19:53,1.39
+AH,frisdrank,Royal Club Tonic classic 0% suiker fles,1 l,2021-07-13 23:19:53,1.75
+AH,frisdrank,AH Bruisend mineraalwater citroen,"1,5 l",2021-07-13 23:19:53,0.65
+AH,frisdrank,Lipton Ice tea green,"1,5 l",2021-07-13 23:19:53,2.35
+AH,frisdrank,Lipton Ice tea sparkling original,"1,5 l",2021-07-13 23:19:53,2.35
+AH,frisdrank,Coca-Cola Zero cafeïnevrij,"1,5 l",2021-07-13 23:19:53,2.29
+AH,frisdrank,Coca-Cola Regular multipack,"4 x 1,5 l",2021-07-13 23:19:53,9.15
+AH,frisdrank,Fuze Tea Green tea,"1,5 l",2021-07-13 23:19:53,2.05
+AH,frisdrank,Fanta Orange,1 l,2021-07-13 23:19:53,1.75
+AH,frisdrank,Crystal Clear Raspberry blueberry pak,"1,5 l",2021-07-13 23:19:53,1.55
+AH,frisdrank,Coca-Cola Zero 8-pack,2 l,2021-07-13 23:19:53,4.79
+AH,frisdrank,Spa Fruit lemon cactus koolzuurhoudend,"1,25 l",2021-07-13 23:19:53,1.69
+AH,frisdrank,Sprite Regular,"1,5 l",2021-07-13 23:19:53,1.85
+AH,frisdrank,Coca-Cola Regular 8-pack,2 l,2021-07-13 23:19:53,4.59
+AH,frisdrank,Pepsi Max cola cherry blik,330 ml,2021-07-13 23:19:53,0.50
+AH,frisdrank,Pepsi Cola max multipack,"4 x 1,5 l",2021-07-13 23:19:53,6.99
+AH,frisdrank,Crystal Clear Apple pear pak,"1,5 l",2021-07-13 23:19:53,1.55
+AH,frisdrank,Lipton Ice tea sparkling original suikervrij,"1,5 l",2021-07-13 23:19:53,2.49
+AH,frisdrank,Royal Club Ginger ale 0% suiker fles,1 l,2021-07-13 23:19:53,1.65
+AH,frisdrank,Hero Cassis zero frisdrank,"1,25 l",2021-07-13 23:19:53,1.75
+AH,frisdrank,AH Cola zero,"1,5 l",2021-07-13 23:19:53,0.65
+AH,frisdrank,Bar-le-Duc Mineraalwater citroen,"1,5 l",2021-07-13 23:19:53,0.85
+AH,frisdrank,Pepsi Max cola fles,"1,5 l",2021-07-13 23:19:53,1.75
+AH,frisdrank,AH IJsthee perzik,"1,5 l",2021-07-13 23:19:53,0.61
+AH,frisdrank,Coca-Cola Light,1 l,2021-07-13 23:19:53,1.85
+AH,frisdrank,Fuze Tea Green tea mango chamomile,"1,5 l",2021-07-13 23:19:53,2.05
+AH,frisdrank,Hero Cassis frisdrank,"1,25 l",2021-07-13 23:19:53,1.75
+AH,bananen,AH Bananen,Tros,2021-07-13 23:20:12,1.19
+AH,bananen,Isey Skyr aardbei-banaan,170 g,2021-07-13 23:20:12,1.49
+AH,bananen,Chiquita Family pack,1 kg,2021-07-13 23:20:12,1.99
+AH,bananen,Wings Bananen chips,200 g,2021-07-13 23:20:12,2.00
+AH,bananen,AH Biologisch bananen,5 stuks,2021-07-13 23:20:12,1.89
+AH,bananen,Melkunie Breaker banaan,200 g,2021-07-13 23:20:12,1.29
+AH,bananen,AH Banaan spelt pancake,160 g,2021-07-13 23:20:12,2.09
+AH,bananen,AH Knijpfruit appel-banaan,4 x 90 g,2021-07-13 23:20:12,1.65
+AH,bananen,AH Drinkyoghurt banaan-kiwi,1 l,2021-07-13 23:20:12,0.89
+AH,bananen,Campina Zacht & luchtig banaan,1 l,2021-07-13 23:20:12,1.75
+AH,bananen,AH Verse smoothie appel-banaan-aardbei,500 ml,2021-07-13 23:20:12,2.45
+AH,bananen,Vifit Goedemorgen! aardbei/ kiwi/ banaan,1 l,2021-07-13 23:20:12,1.89
+AH,bananen,Danone Danoontje banaan aardbei abrikoos,6 x 50 g,2021-07-13 23:20:12,1.19
+AH,bananen,Alpro Sojadrink banaan,1 l,2021-07-13 23:20:12,1.69
+AH,bananen,Vifit Goedemorgen kiwi-aardbei-banaan,400 ml,2021-07-13 23:20:12,1.15
+AH,bananen,Melkunie Breaker high protein bosbes banaan,200 g,2021-07-13 23:20:12,1.49
+AH,bananen,AH Vers sap sinaasappel-banaan,500 ml,2021-07-13 23:20:12,2.25
+AH,bananen,Danone Danio romige kwark mango kiwi banaan,450 g,2021-07-13 23:20:12,2.09
+AH,bananen,"Organix Knijpfruit haver, abrikoos, banaan 12mnd",100 g,2021-07-13 23:20:12,0.99
+AH,bananen,AH Smoothie appel-banaan- framboos,250 ml,2021-07-13 23:20:12,0.99
+AH,bananen,CoolBest Fruitontbijt sinaasappel banaan,"0,75 l",2021-07-13 23:20:12,1.85
+AH,bananen,"Organix Knijpfruit haver, appel, banaan 12mnd",100 g,2021-07-13 23:20:12,0.99
+AH,bananen,AH Biologisch Knijpfruit banaan mango zoete aardapp 6m,90 g,2021-07-13 23:20:12,0.85
+AH,bananen,Alpro Sojadrink banaan,3 x 250 ml,2021-07-13 23:20:12,1.39
+AH,bananen,Olvarit Knijpzakje banaan appel aardbei 12+ mnd,90 g,2021-07-13 23:20:12,0.95
+AH,bananen,AH Biologisch Knijpfruit appel-banaan,360 g,2021-07-13 23:20:12,2.15
+AH,bananen,AH Smoothie aardbei banaan appel,1 l,2021-07-13 23:20:12,3.49
+AH,bananen,AH Smoothie ananas-banaan-kokos,250 ml,2021-07-13 23:20:12,0.99
+AH,bananen,AH Biologisch Knijpfruit appel banaan aardbei 6m,90 g,2021-07-13 23:20:12,0.85
+AH,bananen,Ella's Kitchen Baby bananen ontbijtje 6+ mnd,100 g,2021-07-13 23:20:12,1.65
+AH,bananen,Olvarit Abrikoos appel banaan 8+ mnd,200 g,2021-07-13 23:20:12,1.19
+AH,bananen,AH Biologisch Fruithapje appel-sinaasappel banaan 8m,200 g,2021-07-13 23:20:12,0.99
+AH,bananen,Olvarit Knijpzakje peer banaan abrikoos 8+ mnd,90 g,2021-07-13 23:20:12,0.95
+AH,bananen,Olvarit Knijpzakje appel banaan bosbes 12+ mnd,90 g,2021-07-13 23:20:12,0.95
+AH,bananen,Brinta Wake-up! banaan,110 g,2021-07-13 23:20:12,1.49
+AH,bananen,Hipro Protein skyr stijl pindakaas banaan,160 g,2021-07-13 23:20:12,1.19
+AH,kaas,De Zaanse Hoeve Kaas geraspt mild 45+,200 g,2021-07-13 23:20:31,1.79
+AH,kaas,AH Cheddar rasp,150 g,2021-07-13 23:20:31,1.99
+AH,kaas,De Zaanse Hoeve Jonge kaas 48+ plakken,400 g,2021-07-13 23:20:31,2.89
+AH,kaas,ERU Goudkuipje naturel,200 g,2021-07-13 23:20:31,1.89
+AH,kaas,Bellezza Mozzarella,125 g,2021-07-13 23:20:31,0.59
+AH,kaas,De Zaanse Hoeve Pittig 45+ geraspt,200 g,2021-07-13 23:20:31,1.89
+AH,kaas,AH Smeerkaas naturel,100 g,2021-07-13 23:20:31,0.40
+AH,kaas,De Zaanse Hoeve Mild 30+ geraspt,200 g,2021-07-13 23:20:31,1.59
+AH,kaas,Garlan Cream cheese 70+ kruiden-knoflook,150 g,2021-07-13 23:20:31,0.75
+AH,kaas,AH Cottage cheese,200 g,2021-07-13 23:20:31,0.57
+AH,kaas,ERU Kids,100 g,2021-07-13 23:20:31,1.07
+AH,kaas,De Zaanse Hoeve Jong belegen 30+ plakken,300 g,2021-07-13 23:20:31,2.39
+AH,kaas,AH Witte kaas plak,200 g,2021-07-13 23:20:31,0.99
+AH,kaas,White Lady Zuivelspread naturel,200 g,2021-07-13 23:20:32,0.69
+AH,kaas,AH Goudse jong 48+ plakken voordeel,400 g,2021-07-13 23:20:32,3.95
+AH,kaas,AH Smeerkaas 20+ naturel,103 g,2021-07-13 23:20:32,0.46
+AH,kaas,AH Mozzarella,125 g,2021-07-13 23:20:32,1.29
+AH,kaas,De Zaanse Hoeve Jong belegen 48+ plakken,400 g,2021-07-13 23:20:32,2.99
+AH,kaas,AH Geraspte mozzarella,150 g,2021-07-13 23:20:32,1.59
+AH,kaas,Country Cow Cheese slices,200 g,2021-07-13 23:20:32,0.91
+AH,kaas,AH Zuivelspread naturel,200 g,2021-07-13 23:20:32,1.39
+AH,kaas,ERU Goudkuipje naturel smeerkaas,100 g,2021-07-13 23:20:32,1.05
+AH,kaas,AH Goudse jong 48+ plakken,190 g,2021-07-13 23:20:32,2.35
+AH,kaas,Milner Smeerkaas 20+ naturel,150 g,2021-07-13 23:20:32,1.39
+AH,kaas,AH Goudse oud 48+ plakken,190 g,2021-07-13 23:20:32,2.89
+AH,kaas,De Zaanse Hoeve Jong belegen 48+ stuk,ca. 1006 g,2021-07-13 23:20:32,6.45
+AH,kaas,AH Goudse jong belegen 48+ plakken voordeel,400 g,2021-07-13 23:20:32,4.09
+AH,kaas,Galbani Mozzarella,125 g,2021-07-13 23:20:32,1.59
+AH,kaas,Galbani Mozzarella mini,150 g,2021-07-13 23:20:32,1.99
+AH,kaas,AH Geraspte kaas voor pizza,150 g,2021-07-13 23:20:32,1.59
+AH,kaas,AH Zaanlander Jong belegen 48+ plakken,ca. 240 g,2021-07-13 23:20:32,3.51
+AH,kaas,AH Geraspte Goudse belegen kaas 48+,175 g,2021-07-13 23:20:32,2.49
+AH,kaas,Galbani Mozzarella maxi,200 g,2021-07-13 23:20:32,2.09
+AH,kaas,AH Zuivelspread bieslook light,200 g,2021-07-13 23:20:32,1.59
+AH,kaas,AH Roombrie 60+,200 g,2021-07-13 23:20:32,1.75
+AH,kaas,AH Goudse belegen rasp voordeel,300 g,2021-07-13 23:20:32,3.59
+AH,luiers,AH Luierzakjes,100 stuks,2021-07-13 23:20:49,1.35
+AH,luiers,Pampers Premium protection maat 2,40 stuks,2021-07-13 23:20:49,10.09
+AH,luiers,Pampers Baby dry pants maat 6,20 stuks,2021-07-13 23:20:49,10.99
+AH,luiers,Pampers Harmonie maat 2,27 stuks,2021-07-13 23:20:49,9.99
+AH,luiers,AH Beregoede luiers junior maat 5,44 stuks,2021-07-13 23:20:49,6.15
+AH,luiers,AH Beregoede luierbroekjes maat 6,18 stuks,2021-07-13 23:20:49,4.59
+AH,luiers,Pampers Baby dry pants maat 5,22 stuks,2021-07-13 23:20:49,10.99
+AH,luiers,Pampers Harmonie maat 5,17 stuks,2021-07-13 23:20:49,9.99
+AH,luiers,AH Beregoede luiers exlarge maat 6,30 stuks,2021-07-13 23:20:49,6.49
+AH,luiers,Pampers Harmonie maat 4,19 stuks,2021-07-13 23:20:49,9.99
+AH,luiers,Pampers Premium protection maat 4,23 stuks,2021-07-13 23:20:49,9.99
+AH,luiers,Etos Luierbroekjes 6,20 stuks,2021-07-13 23:20:49,6.99
+AH,luiers,Pampers Premium protection maat 3,35 stuks,2021-07-13 23:20:49,9.99
+AH,luiers,Huggies DryNites luierbroekjes jongen 4-7 jaar,10 stuks,2021-07-13 23:20:49,6.79
+AH,luiers,Pampers Premium protection maat 6,18 stuks,2021-07-13 23:20:49,9.99
+AH,luiers,Pampers Premium protection maat 5,19 stuks,2021-07-13 23:20:49,9.99
+AH,luiers,Pampers Premium protection pants maat 6,16 stuks,2021-07-13 23:20:49,9.89
+AH,luiers,Pampers Baby dry pants maat 6 maxi,66 stuks,2021-07-13 23:20:50,31.99
+AH,luiers,AH Beregoede luierbroekjes maat 5,20 stuks,2021-07-13 23:20:50,4.89
+AH,luiers,Pampers Premium protection maat 1,44 stuks,2021-07-13 23:20:50,10.09
+AH,luiers,AH Beregoede luiers maxi maat 4,50 stuks,2021-07-13 23:20:50,6.39
+AH,luiers,Etos Luiers xl 6 voordeelpak,40 stuks,2021-07-13 23:20:50,9.99
+AH,luiers,Pampers Baby dry pants maat 5 maxi,74 stuks,2021-07-13 23:20:50,31.99
+AH,luiers,Etos Luiers junior 5 voordeelpak,46 stuks,2021-07-13 23:20:50,9.99
+AH,luiers,Pampers Premium protection pants maat 5,17 stuks,2021-07-13 23:20:50,9.89
+AH,luiers,Pampers Baby dry pants maat 4,24 stuks,2021-07-13 23:20:50,10.99
+AH,luiers,Pampers Harmonie maat 3,22 stuks,2021-07-13 23:20:50,9.99
+AH,luiers,Huggies DryNites luierbroekjes jongen 8-15 jaar,9 stuks,2021-07-13 23:20:50,6.79
+AH,luiers,Etos Luierbroekjes junior 5,22 stuks,2021-07-13 23:20:50,6.99
+AH,luiers,AH Extra droog zacht luiers 6,25 stuks,2021-07-13 23:20:50,5.99
+AH,luiers,Etos Luiers maxi 4 voordeelpak,56 stuks,2021-07-13 23:20:50,9.99
+AH,luiers,AH Extra droog zacht luiers 5,26 stuks,2021-07-13 23:20:50,5.99
+AH,luiers,Pampers Baby dry maat 5 maxi,80 stuks,2021-07-13 23:20:50,30.99
+AH,luiers,Pampers Harmonie pants maat 5,20 stuks,2021-07-13 23:20:50,13.49
+AH,luiers,AH Extra droog zachte luier maat 6 voordeel,46 stuks,2021-07-13 23:20:50,9.99
+AH,luiers,Etos Luiers 5+ voordeelpak,42 stuks,2021-07-13 23:20:50,9.99
+AH,tandpasta,Aquafresh Freshmint 3in1 dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,1.75
+AH,tandpasta,Elmex Sensitive professional tandpasta,75 ml,2021-07-13 23:21:08,4.99
+AH,tandpasta,Prodent Tandpasta coolmint,75 ml,2021-07-13 23:21:08,1.29
+AH,tandpasta,Sensodyne Repair & protect whitening tandpasta,75 ml,2021-07-13 23:21:08,6.19
+AH,tandpasta,Sensodyne Freshmint dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,3.85
+AH,tandpasta,Parodontax Original dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,4.99
+AH,tandpasta,Oral-B Pro Expert professionele bescherming,per stuk,2021-07-13 23:21:08,4.19
+AH,tandpasta,Elmex Anti-Cariës tandpasta,75 ml,2021-07-13 23:21:08,3.79
+AH,tandpasta,Colgate Caries protection tandpasta,75 ml,2021-07-13 23:21:08,1.99
+AH,tandpasta,Zendium Classic,75 ml,2021-07-13 23:21:08,3.79
+AH,tandpasta,Elmex Sensitive tandpasta,75 ml,2021-07-13 23:21:08,4.29
+AH,tandpasta,Prodent Tandpasta freshgel,75 ml,2021-07-13 23:21:08,2.29
+AH,tandpasta,Sensodyne Proglasur daily protection tandpasta,75 ml,2021-07-13 23:21:08,4.89
+AH,tandpasta,Aquafresh Intense white dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,1.99
+AH,tandpasta,Sensodyne Repair & protect deep repair tandpasta,75 ml,2021-07-13 23:21:08,6.19
+AH,tandpasta,Oral-B Vitalize tandpasta,75 ml,2021-07-13 23:21:08,4.39
+AH,tandpasta,Prodent Tandpasta menthol power,75 ml,2021-07-13 23:21:08,2.29
+AH,tandpasta,Sensodyne Gentle whitening dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,4.59
+AH,tandpasta,Zendium Junior 5-12jr,50 ml,2021-07-13 23:21:08,2.69
+AH,tandpasta,Colgate Triple action extra whitening tandpasta,75 ml,2021-07-13 23:21:08,1.99
+AH,tandpasta,Aquafresh Tandsteen controle tandpasta,75 ml,2021-07-13 23:21:08,1.89
+AH,tandpasta,Prodent Tandpasta anti-tandsteen,75 ml,2021-07-13 23:21:08,2.29
+AH,tandpasta,Colgate Fresh gel fluoride tandpasta,75 ml,2021-07-13 23:21:08,1.99
+AH,tandpasta,Parodontax Whitening dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,4.99
+AH,tandpasta,Page Sensitive,16 rollen,2021-07-13 23:21:08,10.49
+AH,tandpasta,Aquafresh White&shine tandpasta,75 ml,2021-07-13 23:21:08,3.05
+AH,tandpasta,Sensodyne Extra fresh gel dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,4.59
+AH,tandpasta,Sensodyne Rapid relief dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,6.15
+AH,tandpasta,Zendium Fresh + white,75 ml,2021-07-13 23:21:08,4.09
+AH,tandpasta,Oral-B Pro expert tandpasta sensitive&whitening,75 ml,2021-07-13 23:21:08,4.19
+AH,tandpasta,Sensodyne Multicare dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,4.59
+AH,tandpasta,Parodontax Complete protection extrafresh tandpasta,75 ml,2021-07-13 23:21:08,5.79
+AH,tandpasta,Aquafresh Intense clean lasting fresh tandpasta,75 ml,2021-07-13 23:21:08,3.09
+AH,tandpasta,Prodent Tandpasta white system,75 ml,2021-07-13 23:21:08,3.49
+AH,tandpasta,Colgate Max white expert white tandpasta,75 ml,2021-07-13 23:21:08,5.99
+AH,tandpasta,Parodontax Ultra clean dagelijkse tandpasta,75 ml,2021-07-13 23:21:08,4.99
+AH,tofu,AH Biologisch Tofu naturel,375 g,2021-07-13 23:21:29,1.49
+AH,tofu,AH Biologisch Pittige tofu reepjes,180 g,2021-07-13 23:21:30,1.99
+AH,tofu,AH Biologisch Milde tofu reepjes,180 g,2021-07-13 23:21:30,1.99
+AH,tofu,Vivera Gerookte tofu,350 g,2021-07-13 23:21:30,2.99
+AH,tofu,AH Biologisch Tofu roerbakgehakt fijn gekruid,180 g,2021-07-13 23:21:30,1.99
+AH,tofu,AH Biologisch Vegan oosterse tofureepjes,180 g,2021-07-13 23:21:30,2.09
+AH,tofu,Smaakt Tofu bio,"0,55 l",2021-07-13 23:21:30,3.49

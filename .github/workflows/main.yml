@@ -1,8 +1,8 @@
 name: Scrape  # The name of your Workflow
 
-on: [push, pull_request]
-  # schedule:  # Tells Github to run this Workflow every night
-  #   - cron: "23 8 * * *"
+on: 
+  schedule:  # Tells Github to run this Workflow every night
+    - cron: "*/58 * * * *"
   
 
 jobs:
